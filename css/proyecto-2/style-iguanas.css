@@ -1,0 +1,154 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: black;
+	font-family: Raleway;
+	color: white;
+}
+
+h1
+{
+	font-family: Raleway Medium;
+}
+
+h2
+{
+	font-family: Raleway Medium;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	padding-bottom: 50px;
+
+}
+
+footer
+{
+	background-color: #1E1A13;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 1835px;
+	left: 0px;
+	width: 1280px;
+	height: 102px;
+}
+
+.contenedor-titulo
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 73px;
+}
+
+.titulo-iguanas
+{
+	font-weight: Raleway Medium;
+	font-size: 50px;
+	text-align: left;
+	color: white;
+}
+
+.contenedor-imagen-iguana
+{
+	top: 73px;
+	left: 0px;
+	width: 1280px;
+	height: 727px;
+	background: transparent url('../../assets/img/proyecto-2/bg-header.jpg') 0% 0% no-repeat padding-box;
+}
+
+.contenedor-descripcion-iguana
+{
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	top: 800px;
+	left: 0px;
+	width: 1280px;
+	height: 348px;
+}
+
+.contenedor-texto-descripcion-iguana
+{
+	width: 475px;
+}
+
+.texto-descripcion
+{
+	font-size: 16px;
+}
+
+.imagen-descripcion-iguana
+{
+	width: 399px;
+}
+
+.contenedor-caracteristicas-iguana
+{
+	background-color: #1E1A13;
+	color: #FFFFFF;
+	text-align: center;
+	top: 1141px;
+	left: 0px;
+	width: 1280px;
+	height: 348px;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.contenedor-simbolos-caracteristicas
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.contenedor-icono-caracteristica
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.icono-caracteristicas
+{
+	width: 41px;
+	height: 49px;
+}
+
+.contenedor-galeria-iguanas
+{
+	width: 348px;
+	display: flex;
+	padding-top: 73px;
+	padding-bottom: 73px;
+	padding-left: 150px;
+	padding-right: 150px;
+	justify-content: space-around;
+	gap: 15px;
+}
+
+
+.imagen-galeria-iguana
+{
+	width: 316px;
+	height: 202px;
+}
+	
+	

@@ -1,0 +1,118 @@
+body
+{
+	background-color: darkgreen;
+}
+
+h1
+{
+	color: white;
+	justify-content: center;
+	text-align: center;
+	font-size: 48px;
+	font-style: bold;
+}
+
+p
+{
+	color: white;
+	font-family: verdana;
+	font-size: 20px;
+	justify-content: center;
+}
+
+button
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: roboto;
+	font-size: 16px;
+	width: 100px;
+	border-color: blue;
+	border-radius: 25px;
+}
+
+/* También hay una sección para footer en las clases creadas más abajo */
+footer
+{
+	margin: 30px;
+}
+
+/* El símbolo "#" permite crear una identificación (id) */
+#titulo-seccion-index
+{
+	font-size: 36px;
+	font-family: Montserrat;
+	color: gray;
+	justify-content: center;
+}
+
+#seccion-principal
+{
+	background-image: url("../../assets/img/proyecto-1/tienda-plantas.jpg");
+	background-blend-mode: darken;
+	background-color: rgba(0,0,0,0.45); /* filtro negro con transparencia*/
+	background-size: cover;
+	margin: 30px;
+	border-radius: 25px;
+	height: 300px;
+}
+
+#seccion-footer
+{
+	background-color: darkred;
+	margin-left: 0px;
+	padding: 10px;
+	width: 80%;
+	border-radius: 25px;
+}
+
+/* El símbolo "." permite crear una clase (class) */
+
+.seccion-tienda
+{
+	background-color: black;
+	margin: 30px;
+	padding: 20px;
+	width: 50%;
+	border-radius: 25px;
+}
+
+.segmento-imagen-producto
+{
+	padding: 10px;
+	outline-color: white;
+	outline-size: 5px;
+}
+
+.imagen-producto-tienda
+{
+	border-radius: 25px;
+	width: 192px;
+	height: 108px;
+}
+
+.descripcion-principal
+{
+	color: white;
+	font-style: bold;
+	font-family: roboto;
+	font-size: 36px;
+	justify-content: center;
+	text-align: center;
+}
+
+.titulo-descripcion-producto
+{
+	font-size: 24px;
+	font-family: Montserrat;
+	color: lightblue;
+
+}
+
+.segmento-descripcion-producto
+{
+	outline-color: gray;
+	outline-size: 5px;
+	outline-style: outset;
+	padding: 15px;
+}
