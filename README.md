@@ -9,6 +9,7 @@ Además incluye imágenes de los dos forks realizados a dos compañeros.
 
 Pueden revisar los forks en https://github.com/SopaipillaDev
 
-https://sopaipilladev.github.io/prueba-1-portafolio-desafio-latam-2025/assets/img/forks/fork-ariadnajara.jpg
+## Enlace del portafolio
 
-https://sopaipilladev.github.io/prueba-1-portafolio-desafio-latam-2025/assets/img/forks/fork-falkoncqb.jpg
+https://sopaipilladev.github.io/prueba-1-portafolio-desafio-latam-2025/
+
