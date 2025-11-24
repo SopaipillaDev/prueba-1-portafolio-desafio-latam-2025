@@ -8,3 +8,7 @@ Navegador, Educación, Portafolio, Experiencia y Footer.
 Además incluye imágenes de los dos forks realizados a dos compañeros.
 
 Pueden revisar los forks en https://github.com/SopaipillaDev
+
+## Enlace del sitio web
+
+https://sopaipilladev.github.io/prueba-1-portafolio-desafio-latam-2025/
